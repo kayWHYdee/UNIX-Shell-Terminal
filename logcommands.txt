@@ -1,0 +1,72 @@
+sleep 3
+
+sleep 5&
+nano &
+proclore
+seek input
+seek -e -f hi
+hop ss
+seek -e -f hi
+cat hi.txt
+wc < ii.txt
+wc < hi.txt
+hop .. > hi.txt
+activities
+sleep 100&
+activities
+kill -l
+ping 156264 41
+activities
+sleep 100&
+kill 156612 19
+sleep 50
+activities
+sleep 100
+activities
+sleep 100&
+neonate -n 3
+xxxxxneonate -n 1.5
+neonate -n 1.5
+neonate -n -1
+iMan ls
+sleep 100&
+activities
+fg 158004
+activities
+sleep 100&
+kill -l
+ping 158385 19
+activities
+bg 158385
+activities
+sleep 100
+sleep 50 &
+ping 161633 19
+activities
+bg 161633
+sleep 50 &
+ping 162415 19
+activities
+bg 162415
+prcolore 162415
+ps
+sleep 50
+fg 162748
+activities
+sleep 5
+ps
+sleep 5
+ps
+sleep 3
+ps
+sleep 2
+ps
+reveal
+neonate 1.5
+neonate -n 1.5
+neonate -n 2
+neonate -n -2
+neonate -n 1.5
+neonate 1.5
+neonat -1.5
+neonate 1
